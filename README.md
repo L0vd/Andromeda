@@ -17,7 +17,7 @@ https://github.com/L0vd/Andromeda/tree/main/Node_installation_guide
 https://github.com/L0vd/Andromeda/tree/main/StateSync
 
 ## :heart: Wallet bot
-https://github.com/L0vd/Andromeda/tree/main/Aura_wallet_bot
+https://github.com/L0vd/Andromeda/tree/main/Andromeda_wallet_bot
 
 ## :heart: Public RPC endpoint
 https://andromeda-testnet.rpc.l0vd.com
