@@ -67,7 +67,7 @@ andromedad config chain-id $ANDROMEDA_CHAIN_ID
 
 ## Initialize your node
 ```
-andromedad init $NODENAME --chain-id $CHAIN_ID
+andromedad init $NODENAME --chain-id $ANDROMEDA_CHAIN_ID
 ```
 
 ## Download genesis
